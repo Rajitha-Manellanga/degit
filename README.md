@@ -33,7 +33,7 @@ degit git@github.com:user/repo
 degit https://github.com/user/repo
 ```
 
-Or you can download from GitLab and BitBucket:
+Or you can download from GitLab & BitBucket:
 
 ```bash
 # download from GitLab
