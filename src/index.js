@@ -22,7 +22,7 @@ const validModes = new Set(['tar', 'git']);
 export default function degit(src, opts) {
 	return new Degit(src, opts);
 }
-//checking for merge conflicts test
+//merge conflicts test
 class Degit extends EventEmitter {
 	constructor(src, opts = {}) {
 		super();
